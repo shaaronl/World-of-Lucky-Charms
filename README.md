@@ -29,8 +29,7 @@
   - Rainbows, leprechauns, unicorns, fairies, and evil fairies.
 - Randomized **lucky charm drops** with unique effects.
 - Real-time transformations and animations.
-- **Custom sprites** for lucky charms, rainbows, and unicorns, we created custom sprites with Piskel.  
-- Engaging simulation mechanics with user-triggered, autonomous actions.
+- **Custom sprites** for lucky charms, rainbows, and unicorns (created with Piskel).  
 
 ## 🛠️ Technical Highlights
 - **Custom Sprites**:  
