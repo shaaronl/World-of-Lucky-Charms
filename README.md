@@ -1,7 +1,7 @@
-# 🌈 World of Lucky Charms
+# World of Lucky Charms 🍀 
 
 ## Overview
-*World of Lucky Charms* is a whimsical and interactive simulation inspired by our love for Lucky Charms cereal! This magical world features rainbows, leprechauns, unicorns, and evil fairies, all driven by unique mechanics and transformations. With just a click, you can spawn rainbows, charms, and unicorns, creating a dynamic ecosystem where entities transform and interact with one another in unexpected ways.
+*World of Lucky Charms*  is a whimsical and interactive simulation inspired by my love for Lucky Charms cereal! The project began as a class assignment, where we were tasked with refactoring a base simulation written in procedural design. I first refactored this codebase from procedural to object-oriented design, improving the overall structure, scalability, and maintainability of the project. After the refactor, I implemented better pathfinding mechanics using algorithms like A* and Dijkstra to improve how entities navigate the world. Finally, I collaborated with a partner to transform the original simulation into the World of Lucky Charms, where we introduced new entities, landmarks, interactions, and transformations, creating a more dynamic and engaging experience.
 
 ## 🎮 Gameplay Instructions
 1. **Spawn a Rainbow**:  
@@ -39,8 +39,14 @@
    Implemented a random charm generator using a `LuckyCharm` abstract class and subclasses for each charm type.  
 - **Efficient Coordinate Mapping**:  
   Utilized a hashmap to manage rainbow coordinates, optimizing rendering performance during gameplay.  
-- **Advanced Pathfinding for Unicorns**:  
-  Implemented A* and Dijkstra's algorithms to dynamically map unicorns to the closest lucky charm, as well as other entities to their respective target, ensuring efficient transformations.  
----
-## 🥣 Inspiration
-This project was inspired by our love for Lucky Charms cereal and the magical world it represents. We hope you enjoy this whimsical simulation as much as we enjoyed creating it!
+- **Advanced Pathfinding for Entities**:  
+  Implemented A* and Dijkstra's algorithms to dynamically map unicorns to the closest lucky charm, as well as other entities to their respective target, ensuring efficient transformations.
+
+## 🎥 Demo
+https://github.com/user-attachments/assets/7d1d35cb-aedc-4940-9040-a9fcf84a2a17
+
+## Contributors
+- **Sharon Liang**
+- **Sara Voong**
+
+Together, we worked on transforming the initial simulation into a dynamic and interactive game.
